@@ -25,7 +25,6 @@ function Signup()
          }
         }
         ) 
-
     },[]
     );
 
